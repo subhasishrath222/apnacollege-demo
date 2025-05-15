@@ -1,2 +1,4 @@
 # apnacollege-demo
-This is my first Git repository. Author - Subhasish Rath
+This is my first Git repository.
+<br>
+Author - Subhasish Rath
